@@ -3,7 +3,7 @@
 ## Table of content
 
 1. [About](https://github.com/KrishAgarwal2811/Analog-Clock#about)
-2. [Link to the site](https://github.com/KrishAgarwal2811/Analog-Clocklink-to-tht-site)
+2. [Link to the site](https://github.com/KrishAgarwal2811/Analog-Clock#link-to-tht-site)
 3. [What's the use](https://github.com/KrishAgarwal2811/Analog-Clock#whats-the-use)
 
 ## About
